@@ -11,7 +11,8 @@ import SwiftUI
 struct My_Images_CDApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyImagesGridView()
+                .environment(\.managedObjectContext, MyImagesContainer().persistentContainer.viewContext)
         }
     }
 }

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F686F8A-848E-46D6-B079-8714E0ADBC14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F35430B7-0DFF-4F12-B996-172D6CCF9D3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My-Images-CD/MyImagesGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F35430B7-0DFF-4F12-B996-172D6CCF9D3B - dfd47c55c7740a40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Identifiable, &#x3c4;_1_1: SwiftUI.View&gt;(item: SwiftUI.Binding&lt;Swift.Optional&lt;&#x3c4;_1_0&gt;&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in My_Images_CD.MyImagesGridView.body.getter : some"
+                  moduleName = "My-Images-CD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jameslea/Desktop/Code/Swift/My-Images-CD/My-Images-CD/MyImagesGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "F35430B7-0DFF-4F12-B996-172D6CCF9D3B - dfd47c55c7740a40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Identifiable, &#x3c4;_1_1: SwiftUI.View&gt;(item: SwiftUI.Binding&lt;Swift.Optional&lt;&#x3c4;_1_0&gt;&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in My_Images_CD.MyImagesGridView.body.getter : some"
+                  moduleName = "My-Images-CD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jameslea/Desktop/Code/Swift/My-Images-CD/My-Images-CD/MyImagesGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C9461B9-F729-4211-BDEF-6B300AF5188C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My-Images-CD/MyImagesGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8513C7D3-46C4-4B27-AC03-26CA55D6CC46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My-Images-CD/ImagePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "imageSelection"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8513C7D3-46C4-4B27-AC03-26CA55D6CC46 - 32413f8114219d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in My_Images_CD.ImagePicker.imageSelection.didset : Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;"
+                  moduleName = "My-Images-CD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jameslea/Desktop/Code/Swift/My-Images-CD/My-Images-CD/ImagePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "8513C7D3-46C4-4B27-AC03-26CA55D6CC46 - fc0000c9a1534172"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in My_Images_CD.ImagePicker.imageSelection.didset : Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;"
+                  moduleName = "My-Images-CD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jameslea/Desktop/Code/Swift/My-Images-CD/My-Images-CD/ImagePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8513C7D3-46C4-4B27-AC03-26CA55D6CC46 - a55e661db658d904"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in My_Images_CD.ImagePicker.imageSelection.didset : Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;"
+                  moduleName = "My-Images-CD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jameslea/Desktop/Code/Swift/My-Images-CD/My-Images-CD/ImagePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "8513C7D3-46C4-4B27-AC03-26CA55D6CC46 - eddd0d2be76fb705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in My_Images_CD.ImagePicker.imageSelection.didset : Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;"
+                  moduleName = "My-Images-CD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jameslea/Desktop/Code/Swift/My-Images-CD/My-Images-CD/ImagePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CCB4417-E20F-4D94-8C56-58E8FDCEF887"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My-Images-CD/ImagePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "imageSelection"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
