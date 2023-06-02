@@ -12,7 +12,7 @@ struct ImageFormView: View {
     @FetchRequest(sortDescriptors: [])
     private var myImages: FetchedResults<MyImage>
     @ObservedObject var viewModel: FormViewModel
-    @StateObject var imagePicker = ImagePicker()
+//    @StateObject var imagePicker = ImagePicker()
     
     @Environment(\.managedObjectContext) var mock
     @Environment(\.dismiss) var dismiss
